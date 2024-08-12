@@ -2,7 +2,7 @@
 ### Yuxing Liu & Aidan Goroway
 
 
-Hi! This is README file of CSC325 Robotics final project, edited Marco Polo game for robot. 
+Hi! This is the README file for our CSC-325 Robotics Final Project, an edited Marco-Polo game for the Turtlebot3 robot. 
 
 ## Dependencies
 PyAuodio ( https://pypi.org/project/PyAudio/)
