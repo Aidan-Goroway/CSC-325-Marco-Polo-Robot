@@ -1,0 +1,11 @@
+<launch>
+
+    <group>
+
+    <node pkg="MarcoV2" type="navigationRev1.py" name="navigation_file" />
+
+    <node pkg="MarcoV2" type="stringManipRev3.py" name="string_manipulation_file" />
+
+    </group>
+    
+</launch>
